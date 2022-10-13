@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Application for RoR cources
 
-Things you may want to cover:
+## Requirements
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- List of courses
+- List of Accounts
+- Every course has list of lessons
+- Every account can make homework for lesson
+- We can see list of cources 
+- We can see list of lessons for every course 
+- We can see list of accounts and how many homeworks it completes
