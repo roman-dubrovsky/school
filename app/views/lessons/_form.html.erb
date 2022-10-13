@@ -1,0 +1,6 @@
+<%= simple_form_for @lesson do |f| %>
+  <%= f.input :title %>
+  <%= f.input :description, as: :text %>
+  <%= f.input :course_id, collection: Course.all %>
+  <%= f.submit %>
+<% end %>
